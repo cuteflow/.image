@@ -1,2 +1,2 @@
 # .image
-images for shared icons in scoreboard
+Unique icons for shared functions
